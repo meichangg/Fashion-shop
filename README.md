@@ -1,4 +1,4 @@
-# 🛍️ Fashion E-commerce System - Business Analysis Case Study
+# 🛍️ Fashion E-commerce System
 
 Dự án tập trung vào việc **Chuyển đổi số (Digital Transformation)** cho các cửa hàng thời trang truyền thống, nhằm tối ưu hóa trải nghiệm mua sắm trực tuyến và nâng cao hiệu quả quản lý vận hành.
 
@@ -10,14 +10,7 @@ Dự án tập trung vào việc **Chuyển đổi số (Digital Transformation)
 3. [Quy trình nghiệp vụ (Business Processes)](#2-quy-trình-nghiệp-vụ-business-processes)
 4. [Thiết kế hệ thống (System Design)](#3-thiết-kế-hệ-thống-system-design)
 5. [Đảm bảo chất lượng (QA/Testing)](#4-đảm-bảo-chất-lượng-qatesting)
-6. [Công nghệ sử dụng](#5-công nghệ-sử-dụng)
-
----
-
-## 🌟 Tổng quan dự án
-Hệ thống giải quyết bài toán quản lý tập trung và mở rộng kênh bán hàng cho doanh nghiệp thời trang. Tập trung vào hai mục tiêu chính:
-* **Customer Experience:** Quy trình mua sắm mượt mà, tìm kiếm thông minh.
-* **Operational Excellence:** Quản lý kho bãi (Inventory) và đơn hàng chính xác.
+6. [Công nghệ sử dụng](#5-công-nghệ-sử-dụng)
 
 ---
 
